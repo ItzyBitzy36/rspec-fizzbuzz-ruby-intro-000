@@ -5,7 +5,7 @@ if int % 3 == 0
      "Fizz"
 elsif int % 5 == 0
       "Buzz"
-elsif int 15 % 3 == 15 && 15 % 5 == 15
+elsif int 15 % 3 == 3 && 15 % 5 == 5
       "FizzBuzz"
 else
   puts 'nil'
